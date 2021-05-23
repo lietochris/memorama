@@ -253,3 +253,80 @@
   </codegeneration>
  </XMI.extensions>
 </XMI>
+
+/**
+ * Class TablaPuntaje
+ */
+public class TablaPuntaje {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public TablaPuntaje () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void Mostrar()
+  {
+  }
+
+
+}
+
+
+/**
+ * Class Imagenes
+ */
+public class Imagenes {
+
+  //
+  // Fields
+  //
+
+  
+  //
+  // Constructors
+  //
+  public Imagenes () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  //
+  // Other methods
+  //
+
+  /**
+   * @return       char
+   */
+  public char leerImagenes()
+  {
+  }
+
+
+}
+
