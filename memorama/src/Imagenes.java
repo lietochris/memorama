@@ -1,3 +1,6 @@
+
+import java.io.File;
+
 public class Imagenes {
     private static String imagenReverso;
     private static int cantidadImagenes;
